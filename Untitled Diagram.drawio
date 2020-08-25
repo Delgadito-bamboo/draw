@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T05:03:38.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" version="13.6.2" etag="a84a9ETyEYaHy_B3KVfz" type="github"><diagram id="rJ6ByPcGutVyXSXBhFUs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-25T07:31:41.542Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="_Tq2xFwrY92HLa9Q5in_" version="13.6.4" type="github">
+  <diagram id="rJ6ByPcGutVyXSXBhFUs" name="Page-1">
+    <mxGraphModel dx="1543" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XxfZhBtblslHPCMTZEOd-1" value="商品券" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="80" width="610" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-1">
+          <mxGeometry y="30" width="610" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-3" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-2">
+          <mxGeometry width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-4" value="全国百貨店共通商品券&#xa;百貨店ギフトカード&#xa;伊勢丹商品券&#xa;三越商品券&#xa;岩田屋商品券&#xa;丸井今井商品券&#xa;提携店が過去に発行した商品券（他店商品券）&#xa;エムアイ友の会&#xa;プリペイドカード&#xa;クレジットギフトカード&#xa;「各種デビットカード・プリペイドカード」のお取り扱い&#xa;について&#xa;中国モバイル決済（アリペイ・WeChat Pay）&#xa;銀聯カード&#xa;dカード&#xa;商品お取替券&#xa;株主様ご優待カード（物販）&#xa;株主様ご優待カード（サービス・施設）&#xa;エムアイカードプラチナ・ゴールド会員専用クーポン券" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-2">
+          <mxGeometry x="30" width="580" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-1">
+          <mxGeometry y="410" width="610" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-6" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-5">
+          <mxGeometry width="30" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-7" value="・商品券名称&#xa;・一言コメント&#xa;・画像&#xa;&#xa;・入金制限一覧（何と組み合わせられるか）&#xa;・制限品目（何に使えるか）&#xa;・取り扱いのルール（受け入れルール）&#xa;（※で記載の場合もあり）&#xa;&#xa;・利用可能店舗&#xa;・利用不可店舗&#xa;&#xa;【例外】&#xa;・【全国百貨店共通商品券】利用可能店舗 下記の百貨店が発行していた共通商品券は利用不可&#xa;・【友の会】友の会相互利用一覧（どこの店舗で使えるか）&#xa;・【クレジットギフトカード】発行会社・名称&#xa;・【デビットカード・プリペイドカード】&#xa;1.三越伊勢丹グループ百貨店でご利用可能な各種デビットカード・プリペイドカード&#xa;2.「VISA」「Master」「JCB」ブランド付きデビットカード・プリペイドカード取り扱いの注意事項&#xa;3.「VISA」「Master」「JCB」ブランド付きデビットカード・プリペイドカードの利用制限品目&#xa;4.「VISA」「Master」「JCB」ブランド付きデビットカード・プリペイドカードの見分け方&#xa;5.Jデビットカード 利用不可 &#xa;&#xa;・【アリペイ・WeChatPay】&#xa;-アリペイ・WeChat Payが決済可能なレジ&#xa;・【アリペイ・WeChatPay/銀聯カード】&#xa;-操作方法&#xa;&#xa;・【dカード】&#xa;三越伊勢丹グループ店舗における決済可否、ポイント使用可否、&#xa;ポイント付与可否一覧&#xa;&#xa;&#xa;・【商品お取替え券】返金のルール&#xa;&#xa;・【 株主様ご優待カード（物販）（サービス・施設）&#xa;/エムアイカードプラチナ・ゴールド会員専用クーポン券&#xa;】各種ルール&#xa;&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;verticalAlign=top;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-5">
+          <mxGeometry x="30" width="580" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-8" value="クレジットカード" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="470" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-8">
+          <mxGeometry y="30" width="470" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-10" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-9">
+          <mxGeometry width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-11" value="クレジットカードの基本&#xa;エムアイカード：一般カードの発行方法・年会費・仮カード&#xa;エムアイカード：お支払い方法&#xa;エムアイカード：ご利用代金の入金方法&#xa;エムアイカード：エムアイポイントの基本説明「貯める」&#xa;エムアイカード：エムアイポイントの基本説明「利用する」&#xa;エムアイカード：エムアイポイントの基本説明「確認する」&#xa;エムアイカード：ポイント交換・寄付&#xa;エムアイカード電話注文&#xa;MICARD＋・伊勢丹アイカード・三越 M CARD・&#xa;MICARD・提携カード（エムアイポイント）などの券面一覧&#xa;エムアイカード プラス&#xa;ご優待用のカード&#xa;（株）エムアイカードが発行するクレジットカード&#xa;エムアイカード以外の百貨店カード&#xa;カード会員のためのサークル&#xa;三越現金優待団体カード/伊勢丹購買会カード&#xa;ゲストカード/アイクラブカード&#xa;三越/伊勢丹で利用できる他社クレジットカード&#xa;他社クレジットIC決済&#xa;〈資料〉ポイント付与・年間お買いあげ額加算・&#xa;ポイント率一覧&#xa;お問い合わせ一覧" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-9">
+          <mxGeometry x="30" width="440" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-8">
+          <mxGeometry y="410" width="470" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-13" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-12">
+          <mxGeometry width="30" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-14" value="・取り扱い時の確認事項&#xa;・入会&#xa;・支払い方法&#xa;・利用代金の入金方法（ATM）&#xa;・ポイント&#xa;・エムアイカード電話注文&#xa;・カードのグレード/カード会社一覧&#xa;・ポイント付与/年間お買い上げ金額&#xa;・問合せ一覧" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;verticalAlign=top;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-12">
+          <mxGeometry x="30" width="440" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-15" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-8">
+          <mxGeometry y="960" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-16" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-15">
+          <mxGeometry width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XxfZhBtblslHPCMTZEOd-17" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="XxfZhBtblslHPCMTZEOd-15">
+          <mxGeometry x="30" width="440" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
